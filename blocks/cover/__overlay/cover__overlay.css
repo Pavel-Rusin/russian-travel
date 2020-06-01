@@ -11,6 +11,7 @@
     text-decoration: none;
     transition: background-color 0.25s;
     margin: 0;
+    background-position: center;
 }
 
 .cover__overlay::before {
